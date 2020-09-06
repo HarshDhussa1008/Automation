@@ -1,4 +1,4 @@
-<b>This is a small automation project designed for scraping the news of your choice of interest from a single source. Just enter the topic as command line arguement and rest is done for you automatically.</b>
+<b>This is a small automation project designed for scraping the news of your choice of interest from a single source. Just enter the topic as command line argument and rest is done for you automatically.</b>
 <br>
 Hope you like it.
 <br><br>
