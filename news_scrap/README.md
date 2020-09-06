@@ -15,6 +15,6 @@ Hope you like it.
   <br>
   https://www.python.org/downloads/
   <br><br>
-  To execute this script type the following command on the terminal from path where python is insttalled:<br>
+  To execute this script type the following command on the terminal from path where python is installed:<br>
   python news_scrap.py <YOUR_PREFERRED_NEWS_TOPIC><br>
   eg.&nbsp;&nbsp;python news_scrap.py technology
